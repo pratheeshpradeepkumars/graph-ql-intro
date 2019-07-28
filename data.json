@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Json Roy",
+      "email": "jsonroy@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "Jhon Doe",
+      "email": "jhondoe@gmail.com",
+      "age": 42
+    },
+    {
+      "id": "3",
+      "name": "Amy Rose",
+      "email": "amyrose@gmail.com",
+      "age": 23
+    },
+    {
+      "name": "Ema Watson",
+      "email": "emawatson@gmail.com",
+      "age": 21,
+      "id": "5IbRQIb"
+    }
+  ]
+}
